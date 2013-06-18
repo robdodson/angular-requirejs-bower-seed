@@ -1,4 +1,12 @@
-# About
+## Installation
+
+1. Install [Node.js](http://nodejs.org/)
+1. Install [Bower](http://bower.io/) ( `npm install -g bower` at the command line )
+1. open this folder at the command line
+1. type `bower install`
+1. open a web browser to the index.html file
+
+## About
 
 This is a fork of [Angular Seed](https://github.com/angular/angular-seed) but with changes needed for requireJS support. 
 
