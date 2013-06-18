@@ -4,7 +4,7 @@ require.config({
 		angular: '../components/angular/angular',
 		text: '../components/requirejs-text/text'
 	},
-	baseUrl: '/app/js',
+	baseUrl: 'app/js',
 	shim: {
 		'angular' : {'exports' : 'angular'},
 		'angularMocks': {deps:['angular'], 'exports':'angular.mock'}
