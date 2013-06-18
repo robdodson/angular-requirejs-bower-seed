@@ -1,10 +1,11 @@
 ## Installation
 
-1. Install [Node.js](http://nodejs.org/)
-1. Install [Bower](http://bower.io/) ( `npm install -g bower` at the command line )
+1. install [Node.js](http://nodejs.org/)
+1. install [Bower](http://bower.io/) ( `npm install -g bower` at the command line )
 1. open this folder at the command line
 1. type `bower install`
 1. open a web browser to the index.html file
+1. if the partials don't load it may be triggering an error like `XMLHttpRequest cannot load ...app/partials/partial1.html. Origin null is not allowed by Access-Control-Allow-Origin.` In that case, try using [http-server](https://github.com/nodeapps/http-server) to serve up the index.html file.
 
 ## About
 
