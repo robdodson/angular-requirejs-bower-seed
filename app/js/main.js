@@ -1,8 +1,8 @@
 require.config({
 	paths: {
-		jquery: 'lib/jquery/jquery',
-		angular: 'lib/angular/angular',
-		text: 'lib/require/text'
+		jquery: '../components/jquery/jquery',
+		angular: '../components/angular/angular',
+		text: '../components/requirejs-text/text'
 	},
 	baseUrl: '/app/js',
 	shim: {
