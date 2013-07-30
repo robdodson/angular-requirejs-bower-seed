@@ -8,6 +8,6 @@
     "angular-resource": "~1.0.7",
     "angular-sanitize": "~1.0.7",
     "requirejs": "~2.1.8",
-    "requirejs-text": "~2.0.8"
+    "requirejs-text": "~2.0.9"
   }
 }
